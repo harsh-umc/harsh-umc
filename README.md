@@ -50,10 +50,10 @@ Intern @ **Veden Center** (Boozhi Brew digital transformation) · Front‑end & 
 ## 🔗 Featured Projects
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| Boozhi Brew Store & App | E‑commerce site + mobile prototype, marketing automation | Shopify · Liquid · CSS/JS · FlutterFlow/Swift | Repo (private/coming soon) · Demo (on request) |
-| Rep‑Max Calculator | Simple strength calculator | Flutter | [Code](https://github.com/harsh-umc) |
+| Boozhi Brew Store & App | E‑commerce site + mobile prototype, marketing automation | Shopify · Liquid · CSS/JS · FlutterFlow/Swift | Repo https://github.com/harsh-umc/BoozhiBrewWebView · Demo https://boozhibrew.com/ |
+| Rep‑Max Calculator | Simple strength calculator | Flutter | [Code](https://testerapp-et9rqx.flutterflow.app) |
 | Online Shopping Cart (Java) | OOP practice with `ItemToPurchase`/`ShoppingCart` classes | Java | [Code](https://github.com/harsh-umc) |
-| Royal Bet (concept) | Game prototype & marketing prompts | Node/React (WIP) | [Code](https://github.com/harsh-umc) |
+| Royal Bet (concept) | Game prototype & marketing prompts | Node/React (WIP) | [Code]([https://github.com/harsh-umc](https://github.com/vardhanghelani/Stake)) |
 
 > Want the full list? Check my [Pinned Repositories](https://github.com/harsh-umc?tab=repositories&type=source).
 
